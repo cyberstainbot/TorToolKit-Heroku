@@ -9,7 +9,7 @@ except:
 
         API_HASH = "d4fe9ba56710f216251c2818fc50ebef"
         API_ID = 1340081
-        BOT_TOKEN = "1596550006:AAFfTpjyXPvUPci5IVzB3TkKd4en3iKuzaA"
+        BOT_TOKEN = "1596550006:AAGZmYZg1-J4Y-O6zxq9nzuA61U4m99bc2w"
         BASE_URL_OF_BOT = "https://t.me/torleechpro_bot"
 
         # Edit the server port if you want to keep it default though.
@@ -20,7 +20,7 @@ except:
         OWNER_ID = 1156597097
 
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = "https://lkhitechmirror3.lkhitech8.workers.dev/2:/noswDY0Zl0g.mp4"
+        GD_INDEX_URL = "https://downloadhub.lkhitech8.workers.dev/0:"
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 10
@@ -38,9 +38,7 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DATABASE_URL = (
-            "postgres://jxbnqulieoxqjw:bd3647c7de4afbd89dc55285435a5b054c0c8efe8204acba19a35297d7825329@ec2-54-83-137-206.compute-1.amazonaws.com:5432/df024a8sn2ni3b"
-        )
+        DATABASE_URL = "postgres://tdctdbshdsgseg:91eeef076bcc6629f60ae48d5ce5c4bd3e3af79e734c575695893eeefa145bc5@ec2-54-174-172-218.compute-1.amazonaws.com:5432/db48l6jc8g2o0m"
 
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         # DATABASE_URL = "dbname=tortk user=postgres password=your-pass host=db port=5432"
